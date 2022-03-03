@@ -1,1 +1,1 @@
-
+### Cancun is always a hot spot for beach tourism. It is a good reference to know what local and international visitors thinks about these places which needs a special management in services, environment and innovation.    
