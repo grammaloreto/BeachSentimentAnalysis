@@ -1,3 +1,12 @@
-# SentimentAnalysis
+# Beach SentimentAnalysis
 
-## With BERT and Hugging Face transformers. Everyone have good or bad experiences in beaches, hotels, restaurants or with a service. From popular web plataforms data (reviews) are scrape to analyse the results.  
+## With Hugging Face 
+
+Data (reviews) are scraped from a popular travel plataform.
+
+In some cases english and spanish beach-reviews are taken for other analysis only spanish. 
+
+### Mean
+- Caribbean beaches of Colombia: 3.49/5
+- Cancun (Mexico): 3.68/5
+
